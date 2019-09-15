@@ -14,7 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Hugo Blog Template for GitLab Pages"
+  subtitle = "Hub for course material, native apps and other resources"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
