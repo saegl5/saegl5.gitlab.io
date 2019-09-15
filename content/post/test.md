@@ -1,7 +1,7 @@
 ---
 title: Photoswipe Gallery Sample
 subtitle: Making a Gallery
-date: 2017-03-20
+date: 2019-03-20
 tags: ["example", "photoswipe"]
 ---
 
