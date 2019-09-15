@@ -465,7 +465,7 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 48px; /* font-size: 50px; */
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
