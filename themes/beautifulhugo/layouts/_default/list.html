@@ -23,7 +23,7 @@
             {{.}}
           </div>
         {{ end }}
-        <div class="posts-list">
+        <!-- <div class="posts-list">
           {{ range .Paginator.Pages }}
             <article class="post-preview">
               <a href="{{ .Permalink }}">
@@ -58,7 +58,7 @@
     
             </article>
           {{ end }}
-        </div>
+        </div> -->
         {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
           <ul class="pager main-pager">
             {{ if .Paginator.HasPrev }}
