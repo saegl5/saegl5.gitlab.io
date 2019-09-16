@@ -67,7 +67,7 @@ pygmentCodeFences = true
 
 [[menu.main]]
     identifier = "samples"
-    name = "Samples"
+    name = "Mathematics"
     weight = 2
 
 [[menu.main]]
