@@ -89,6 +89,6 @@ pygmentCodeFences = true
     weight = 3
 
 [[menu.main]]
-    name = <i class="fas fa-tags"></i>
+    name = "<i class="fas fa-tags"></i>"
     url = "tags"
     weight = 3
