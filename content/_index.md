@@ -10,7 +10,7 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 
 ## Course Material
 
-The latest binary release can be found on the [releases page](https://gitlab.com/saegl5/check-student-loans-resources/-/releases).
+The latest binary release can be found on the [releases page](https://gitlab.com/saegl5/check-student-loans-resources/-/releases). Older releases can be found
 
 ## Native Apps
 
@@ -18,4 +18,4 @@ The latest binary release can be found on the [releases page](https://gitlab.com
 
 ## Other Resources
 
-Latest releases can be found on the [releases page](https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases).
+~~Latest releases can be found on the [releases page](https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases).~~
