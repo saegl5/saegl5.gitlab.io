@@ -88,7 +88,7 @@ pygmentCodeFences = true
     url = "post/2016-03-08-code-sample"
     weight = 3
 
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+#[[menu.main]]
+#    name = "Tags"
+#    url = "tags"
+#    weight = 3
