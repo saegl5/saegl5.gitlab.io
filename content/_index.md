@@ -13,7 +13,6 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 | Course Material | + | Native App |
 |:-:|:-:|:-:|
 | Part 1: Questions *without* App<br>Part 2: Questions *with* App<br>Bonus Questions || iOS App *or*<br>Android App |
-
 Figure: Overview of an Instructional App
 
 </center>
