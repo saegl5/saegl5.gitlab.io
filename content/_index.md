@@ -8,6 +8,14 @@ if you don't want any content here.
 
 Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started. -->
 
+| Course Material                 | + | Native App   |
+|:-------------------------------:|:-:|:------------:|
+| Part 1: Questions *without* App |   | iOS App *or* |
+| Part 2: Questions *with* App    |   | Android App  |
+| Bonus Questions                 |   |              |
+
+Figure: Overview of an Instructional App
+
 ## Course Material
 
 The latest binary release can be found on the [releases page](https://gitlab.com/saegl5/check-student-loans-resources/-/releases). Older releases can be found
