@@ -20,15 +20,9 @@ Overview of an Instructional App
 
 [Releases](https://gitlab.com/saegl5/check-student-loans-resources/-/releases) | [Archives](https://gitlab.com/saegl5/check-student-loans-resources/tree/master/Archives) | [Source](https://gitlab.com/saegl5/check-student-loans-resources)
 
-The latest binary release can be found on the [releases page]. Older releases can be found
-
 ## Native Apps
 
-[Releases](https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases) | [Archives](https://gitlab.com/saegl5/check-student-loans-for-ios/tree/master/Archives) | [Source](https://gitlab.com/saegl5/check-student-loans-for-ios)
-
-android?
-
-The latest binary release can be found on the [releases page](https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases).
+[Releases](https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases) | [Archives (Android)](https://gitlab.com/saegl5/check-student-loans-for-android/tree/master/Archives) | [Archives (iOS)](https://gitlab.com/saegl5/check-student-loans-for-ios/tree/master/Archives) | [Source](https://gitlab.com/saegl5/check-student-loans-for-ios)
 
 ## Other Resources
 
