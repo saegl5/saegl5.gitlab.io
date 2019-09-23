@@ -26,6 +26,6 @@ Overview of an Instructional App
 
 ## Other Resources
 
-~~Latest releases can be found on the [releases page](https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases).~~
+Releases | Archives | Source
 
 </center>
