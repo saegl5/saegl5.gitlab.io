@@ -12,7 +12,7 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 
 Overview of an Instructional App
 
-<table bgcolor="#FFFFFF">
+<table>
     <tr>
         <th>Course Material</th>
         <th>+</th>
