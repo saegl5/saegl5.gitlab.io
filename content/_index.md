@@ -18,9 +18,9 @@ Overview of an Instructional App
 
 ## Course Material
 
-**[Latest Release (Version 1.5.2)](https://gitlab.com/saegl5/check-student-loans-course-material/blob/05cfae56b3fe867cf9d011c29123948cec86844e/Archives/summative_copy.pdf)**<br> (Updated: Sep 24, 2019)
+**[Latest Release (Version 1.5.2)](https://gitlab.com/saegl5/check-student-loans-course-material/uploads/211ba49cf87238db8a40cea88ab918fd/course_material.pdf)**<br> (Updated: Sep 26, 2019)
 
-[All Releases](https://gitlab.com/saegl5/check-student-loans-resources/-/releases) | [Archives](https://gitlab.com/saegl5/check-student-loans-resources/tree/master/Archives) | [Source](https://gitlab.com/saegl5/check-student-loans-resources)
+[All Releases](https://gitlab.com/saegl5/check-student-loans-course-material/-/releases) | [Archives](https://gitlab.com/saegl5/check-student-loans-course-material/tree/master/Archives) | [Source](https://gitlab.com/saegl5/check-student-loans-course-material)
 
 ## Native Apps
 
@@ -30,7 +30,7 @@ Overview of an Instructional App
 
 ## Other Resources
 
-**[Latest Release (Version 1.6.1)](https://gitlab.com/saegl5/check-student-loans-other-resources/blob/98e640ef2128acef3331ebb5ff5aeeb81be81397/Archives/latest-1_6_1.zip)**<br> (Updated: Sep 25, 2019)
+**[Latest Release (Version 1.6.1)](https://gitlab.com/saegl5/check-student-loans-other-resources/blob/f39071e75c4e5c3d5796838383c749baa0bdf3cb/Archives/latest-1_6_1.zip)**<br> (Updated: Sep 26, 2019)
 
 [All Releases](https://gitlab.com/saegl5/check-student-loans-other-resources/-/releases) | [Archives](https://gitlab.com/saegl5/check-student-loans-other-resources/tree/master/Archives) | [Source](https://gitlab.com/saegl5/check-student-loans-other-resources)
 
