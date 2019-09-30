@@ -19,7 +19,7 @@ Overview of an Instructional App
         <th>Native App</th>
     </tr>
     <tr>
-        <td style="text-align:center">Part 1: Questions <i>without</i> App<br>
+        <td>Part 1: Questions <i>without</i> App<br>
         Part 2: Questions <i>with</i> App<br>
         Bonus Questions</td>
         <td></td>
