@@ -14,9 +14,9 @@ Overview of an Instructional App
 
 <table>
     <tr>
-        <td>Course Material</td>
-        <td>+</td>
-        <td>Native App</td>
+        <th>Course Material</th>
+        <th>+</th>
+        <th>Native App</th>
     </tr>
     <tr>
         <td>Part 1: Questions <i>without</i> App<br>
