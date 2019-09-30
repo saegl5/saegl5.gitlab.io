@@ -12,13 +12,25 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 
 Overview of an Instructional App
 
-| Course Material | + | Native App |
-| :---: | :---: | ---: |
-| x || x |
+<table>
+    <tr>
+        <td>Course Material</td>
+        <td>+</td>
+        <td>Native App</td>
+    </tr>
+    <tr>
+        <td>Part 1: Questions <i>without</i> App<br>
+        Part 2: Questions <i>with</i> App<br>
+        Bonus Questions</td>
+        <td></td>
+        <td>iOS App <i>or</i><br>
+        Android App</td>
+    </tr>
+</table>
 
-
-| Part 1: Questions *without* App<br>Part 2: Questions *with* App<br>Bonus Questions || iOS App *or*<br>Android App |
-
+<!-- | Course Material | + | Native App | -->
+<!-- | :---: | :---: | ---: | -->
+<!-- | Part 1: Questions *without* App<br>Part 2: Questions *with* App<br>Bonus Questions || iOS App *or*<br>Android App | -->
 | **[Latest Release (Version 1.5.2)](https://gitlab.com/saegl5/check-student-loans-course-material/uploads/211ba49cf87238db8a40cea88ab918fd/course_material.pdf)**<br>(Updated: Sep 26, 2019)<br>[All Releases](https://gitlab.com/saegl5/check-student-loans-course-material/-/releases)<br>[Archives](https://gitlab.com/saegl5/check-student-loans-course-material/tree/master/Archives)<br>[Source](https://gitlab.com/saegl5/check-student-loans-course-material) || **[Latest Release (Version 2.7.3)](https://gitlab.com/saegl5/check-student-loans-for-ios/blob/4172d97e2c662a302fd6dc104078088c6114842f/Archives/latest-2_7_3.ipa)**<br>(Updated: Sep 20, 2019)<br>[All Releases](https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases)<br>Archives ([Android](https://gitlab.com/saegl5/check-student-loans-for-android/tree/master/Archives)/[iOS](https://gitlab.com/saegl5/check-student-loans-for-ios/tree/master/Archives))<br>[Source](https://gitlab.com/saegl5/check-student-loans-for-ios) |
 
 <!-- ## Course Material
