@@ -38,10 +38,10 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
         Native App</th>
     </tr>
     <tr>
-        <td>iOS App <i>or</i> Android App</td>
+        <td>iOS <i>or</i> Android</td>
     </tr>
     <tr>
-        <td><a href="https://gitlab.com/saegl5/check-student-loans-for-ios/blob/4172d97e2c662a302fd6dc104078088c6114842f/Archives/latest-2_7_3.ipa"><b>Latest (iOS Version 2.7.3)</b></a><br>
+        <td><a href="https://gitlab.com/saegl5/check-student-loans-for-ios/blob/4172d97e2c662a302fd6dc104078088c6114842f/Archives/latest-2_7_3.ipa"><b>Latest (iOS 2.7.3)</b></a><br>
         <a href="https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases">All iOS Releases</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-ios/tree/master/Archives">iOS Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-android/tree/master/Archives">Android Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-ios">Source</a></td>
     </tr>
 </table>
