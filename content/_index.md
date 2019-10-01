@@ -12,7 +12,7 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 
 ## Overview of an Instructional App
 
-&nbsp;<br>
+&nbsp;
 
 <table>
     <tr>
