@@ -13,6 +13,8 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 ## Overview of an Instructional App
 
 <table>
+<td></td>
+<td>
     <tr>
         <td></td>
         <td>    <tr>
@@ -41,10 +43,11 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
     <tr>
         <td><a href="https://gitlab.com/saegl5/check-student-loans-for-ios/blob/4172d97e2c662a302fd6dc104078088c6114842f/Archives/latest-2_7_3.ipa"><b>Latest (iOS Version 2.7.3)</b></a><br>
         <a href="https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases">All iOS Releases</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-ios/tree/master/Archives">iOS Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-android/tree/master/Archives">Android Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-ios">Source</a></td>
-    </tr>
-</td>
+    </tr></td>
         <td></td>
     </tr>
+</td>
+<td></td>
 </table>
 
 <table>
