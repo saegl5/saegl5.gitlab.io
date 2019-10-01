@@ -12,7 +12,7 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 
 ## Overview of an Instructional App
 
-&nbsp;<p>
+&nbsp;<br>
 
 <table>
     <tr>
@@ -48,7 +48,7 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 
 &nbsp;<p>
 
-## Other Resources
+### Other Resources
 
 **[Latest (Version 1.6.1)](https://gitlab.com/saegl5/check-student-loans-other-resources/blob/f39071e75c4e5c3d5796838383c749baa0bdf3cb/Archives/latest-1_6_1.zip)**<br>
 [All Releases](https://gitlab.com/saegl5/check-student-loans-other-resources/-/releases) &middot; [Archives](https://gitlab.com/saegl5/check-student-loans-other-resources/tree/master/Archives) &middot; [Source](https://gitlab.com/saegl5/check-student-loans-other-resources)
