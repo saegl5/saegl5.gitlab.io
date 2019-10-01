@@ -41,20 +41,26 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
         <td>iOS <i>or</i> Android</td>
     </tr>
     <tr>
-        <td><a href="https://gitlab.com/saegl5/check-student-loans-for-ios/blob/4172d97e2c662a302fd6dc104078088c6114842f/Archives/latest-2_7_3.ipa"><b>Latest (iOS 2.7.3)</b></a><br>
-        <a href="https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases">All iOS Releases</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-ios/tree/master/Archives">iOS Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-android/tree/master/Archives">Android Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-ios">Source</a></td>
+        <td>iOS</td>
+        <td><a href="https://gitlab.com/saegl5/check-student-loans-for-ios/blob/4172d97e2c662a302fd6dc104078088c6114842f/Archives/latest-2_7_3.ipa"><b>Latest (Version 2.7.3)</b></a><br>
+        <a href="https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases">All Releases</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-ios/tree/master/Archives">Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-ios">Source</a></td>
+    </tr>
+    <tr>
+        <td>Android</td>
+        <td><a href="https://gitlab.com/saegl5/check-student-loans-for-android/blob/de29e4fcdc350906f95523c4cab2d66934adb97d/Archives/final.apk"><b>Latest (Version 1.x Alpha)</b></a><br>
+        <a href="https://gitlab.com/saegl5/check-student-loans-for-android/-/releases">All Releases</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-android/tree/master/Archives">Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-android">Source</a></td>
     </tr>
 </table><br>
 
 ### Other Resources
-Introductory Script<br>
-iOS App Overview<br>
-Checklist for Checking Calculations<br>
-Spreadsheet for Checking Calculations<br>
-Special Cases in iOS Involving Rounding and Casting<br>
-Jupyter Notebook File for Computing Errors<br>
-Deeper Insight into the App and Its Calculations<br>
-Extra Insight into the App and Its Calculations<p>
+<i class="far fa-file"></i> Introductory Script<br>
+<i class="far fa-file"></i> iOS App Overview<br>
+<i class="far fa-file"></i> Checklist for Checking Calculations<br>
+<i class="far fa-file"></i> Spreadsheet for Checking Calculations<br>
+<i class="far fa-file"></i> Special Cases in iOS Involving Rounding and Casting<br>
+<i class="far fa-file-code"></i> Jupyter Notebook File for Computing Errors<br>
+<i class="far fa-file"></i> Deeper Insight into the App and Its Calculations<br>
+<i class="far fa-file"></i> Extra Insight into the App and Its Calculations<p>
 **[Latest (Version 1.6.1)](https://gitlab.com/saegl5/check-student-loans-other-resources/blob/f39071e75c4e5c3d5796838383c749baa0bdf3cb/Archives/latest-1_6_1.zip)**<br>
 [All Releases](https://gitlab.com/saegl5/check-student-loans-other-resources/-/releases) &middot; [Archives](https://gitlab.com/saegl5/check-student-loans-other-resources/tree/master/Archives) &middot; [Source](https://gitlab.com/saegl5/check-student-loans-other-resources)
 
