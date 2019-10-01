@@ -47,7 +47,7 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
     </tr>
     <tr>
         <td>Android</td>
-        <td><a href="https://gitlab.com/saegl5/check-student-loans-for-android/blob/de29e4fcdc350906f95523c4cab2d66934adb97d/Archives/final.apk"><b>Latest (Version 1.x Alpha)</b></a><br>
+        <td><a href="https://gitlab.com/saegl5/check-student-loans-for-android/blob/de29e4fcdc350906f95523c4cab2d66934adb97d/Archives/final.apk"><b>Final (Version 1.x Alpha)</b></a><br>
         <a href="https://gitlab.com/saegl5/check-student-loans-for-android/-/releases">All Releases</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-android/tree/master/Archives">Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-android">Source</a></td>
     </tr>
 </table><br>
@@ -55,12 +55,12 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 ### Other Resources
 <i class="far fa-file"></i> Introductory Script<br>
 <i class="far fa-file"></i> iOS App Overview<br>
-<i class="far fa-file"></i> Checklist for Checking Calculations<br>
-<i class="far fa-file"></i> Spreadsheet for Checking Calculations<br>
+<i class="far fa-file"></i> Checklist for Checking the iOS App's Calculations<br>
+<i class="far fa-file"></i> Spreadsheet for Checking the iOS App's Calculations<br>
 <i class="far fa-file"></i> Special Cases in iOS Involving Rounding and Casting<br>
 <i class="far fa-file-code"></i> Jupyter Notebook File for Computing Errors<br>
-<i class="far fa-file"></i> Deeper Insight into the App and Its Calculations<br>
-<i class="far fa-file"></i> Extra Insight into the App and Its Calculations<p>
+<i class="far fa-file"></i> Deeper Insight into the iOS App<br>
+<i class="far fa-file"></i> Extra Insight into the iOS App<p>
 **[Latest (Version 1.6.1)](https://gitlab.com/saegl5/check-student-loans-other-resources/blob/f39071e75c4e5c3d5796838383c749baa0bdf3cb/Archives/latest-1_6_1.zip)**<br>
 [All Releases](https://gitlab.com/saegl5/check-student-loans-other-resources/-/releases) &middot; [Archives](https://gitlab.com/saegl5/check-student-loans-other-resources/tree/master/Archives) &middot; [Source](https://gitlab.com/saegl5/check-student-loans-other-resources)
 
