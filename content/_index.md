@@ -23,7 +23,6 @@ Overview of an Instructional App
     </tr>
     <tr>
         <td><a href="https://gitlab.com/saegl5/check-student-loans-course-material/uploads/211ba49cf87238db8a40cea88ab918fd/course_material.pdf"><b>Latest Release (Version 1.5.2)</b></a><br>
-        (Updated: Sep 26, 2019)<br>
         <a href="https://gitlab.com/saegl5/check-student-loans-course-material/-/releases">All Releases</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-course-material/tree/master/Archives">Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-course-material">Source</a></td>
     </tr>
 </table>
@@ -35,13 +34,11 @@ Overview of an Instructional App
         <th>Native App</th>
     </tr>
     <tr>
-        <td>iOS App <i>or</i><br>
-        Android App</td>
+        <td>iOS App <i>or</i> Android App</td>
     </tr>
     <tr>
-        <td><a href="https://gitlab.com/saegl5/check-student-loans-for-ios/blob/4172d97e2c662a302fd6dc104078088c6114842f/Archives/latest-2_7_3.ipa"><b>Latest Release (Version 2.7.3)</b></a><br>
-       (Updated: Sep 20, 2019)<br>
-        <a href="https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases">All Releases</a> &middot; Archives (<a href="https://gitlab.com/saegl5/check-student-loans-for-android/tree/master/Archives">Android</a>/<a href="https://gitlab.com/saegl5/check-student-loans-for-ios/tree/master/Archives">iOS</a>) &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-ios">Source</a></td>
+        <td><a href="https://gitlab.com/saegl5/check-student-loans-for-ios/blob/4172d97e2c662a302fd6dc104078088c6114842f/Archives/latest-2_7_3.ipa"><b>Latest Release (iOS Version 2.7.3)</b></a><br>
+        <a href="https://gitlab.com/saegl5/check-student-loans-for-ios/-/releases">All iOS Releases</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-ios/tree/master/Archives">iOS Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-android/tree/master/Archives">Android Archives</a> &middot; <a href="https://gitlab.com/saegl5/check-student-loans-for-ios">Source</a></td>
     </tr>
 </table>
 
@@ -62,7 +59,7 @@ Overview of an Instructional App
 
 ## Other Resources
 
-**[Latest Release (Version 1.6.1)](https://gitlab.com/saegl5/check-student-loans-other-resources/blob/f39071e75c4e5c3d5796838383c749baa0bdf3cb/Archives/latest-1_6_1.zip)**<br> (Updated: Sep 26, 2019)<br>
+**[Latest Release (Version 1.6.1)](https://gitlab.com/saegl5/check-student-loans-other-resources/blob/f39071e75c4e5c3d5796838383c749baa0bdf3cb/Archives/latest-1_6_1.zip)**<br>
 [All Releases](https://gitlab.com/saegl5/check-student-loans-other-resources/-/releases) &middot; [Archives](https://gitlab.com/saegl5/check-student-loans-other-resources/tree/master/Archives) &middot; [Source](https://gitlab.com/saegl5/check-student-loans-other-resources)
 
 </center>
