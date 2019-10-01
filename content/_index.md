@@ -34,11 +34,11 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 
 <table>
     <tr>
-        <th><i class="fas fa-mobile-alt"></i><br>
+        <th colspan="2"><i class="fas fa-mobile-alt"></i><br>
         Native App</th>
     </tr>
     <tr>
-        <td>iOS <i>or</i> Android</td>
+        <td colspan="2">iOS <i>or</i> Android</td>
     </tr>
     <tr>
         <td>iOS</td>
