@@ -12,7 +12,7 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 
 ## Overview of an Instructional App
 
-&nbsp;
+<!-- &nbsp; -->
 
 <table>
     <tr>
@@ -46,7 +46,7 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
     </tr>
 </table>
 
-&nbsp;<p>
+<br>
 
 ### Other Resources
 
