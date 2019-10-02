@@ -73,7 +73,7 @@ pygmentCodeFences = true
 [[menu.main]]
     parent = "samples"
     name = "Deeper Insight into the iOS App"
-    url = https://gitlab.com/saegl5/check-student-loans-other-resources/blob/master/LaTeX/deeper_insight.pdf
+    url = "https://gitlab.com/saegl5/check-student-loans-other-resources/blob/master/LaTeX/deeper_insight.pdf"
 #    name = "Big Image Sample"
 #    url = "post/2017-03-07-bigimg-sample"
     weight = 1
@@ -81,7 +81,7 @@ pygmentCodeFences = true
 [[menu.main]]
     parent = "samples"
     name = "Extra Insight into the iOS App"
-    url = https://gitlab.com/saegl5/check-student-loans-other-resources/blob/master/LaTeX/extra_insight.pdf
+    url = "https://gitlab.com/saegl5/check-student-loans-other-resources/blob/master/LaTeX/extra_insight.pdf"
 #    name = "Math Sample"
 #    url = "post/2017-03-05-math-sample"
     weight = 2
