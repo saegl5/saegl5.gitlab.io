@@ -122,5 +122,5 @@ icon = "fab fa-goodreads"
 id = "launchpad"
 url = "https://launchpad.net/~%s"
 title = "Launchpad"
-icon = "fab fa-ubuntu"
+icon = "fas fa-user"
 
