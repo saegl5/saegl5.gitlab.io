@@ -53,6 +53,7 @@ pygmentCodeFences = true
   # bandcamp = "username"
   # itchio = "username"
   # keybase = "username"
+  launchpad = "saegl5"
 
 
 #[[menu.main]]

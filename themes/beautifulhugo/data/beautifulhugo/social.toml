@@ -118,4 +118,9 @@ url = "https://www.goodreads.com/%s"
 title = "Goodreads"
 icon = "fab fa-goodreads"
 
+[[social_icons]]
+id = "launchpad"
+url = "https://launchpad.net/~%s"
+title = "Launchpad"
+icon = "fab fa-ubuntu"
 
