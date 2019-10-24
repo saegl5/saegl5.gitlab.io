@@ -1,7 +1,7 @@
 ---
-title: Other Resources
-subtitle: Making a Gallery
-date: 2019-10-23
+title: Test
+# subtitle: Making a Gallery
+date: 2019-09-23
 # tags: ["example", "photoswipe"]
 ---
 
