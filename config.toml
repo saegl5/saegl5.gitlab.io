@@ -35,7 +35,7 @@ pygmentCodeFences = true
 
 [Author]
   name = "Ed Silkworth"
-  email = "ed.silkworth@protonmail.com"
+  #email = "ed.silkworth@protonmail.com"
   # facebook = "username"
   # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   gitlab = "saegl5"
