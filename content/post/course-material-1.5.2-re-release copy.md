@@ -1,6 +1,6 @@
 ---
-title: Course Material 1.5.2 Re-Release
-subtitle: internal improvements
+title: Test
+description: internal improvements
 date: 2019-09-26
 # tags: ["example", "photoswipe"]
 ---
