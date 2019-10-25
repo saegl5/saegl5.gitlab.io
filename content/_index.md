@@ -26,7 +26,7 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
     </tr>
     <tr>
         <td><a href="https://gitlab.com/check-student-loans/course-material/uploads/211ba49cf87238db8a40cea88ab918fd/course_material.pdf"><b>Latest (Version 1.5.2)</b></a><br>
-        <a href="https://gitlab.com/check-student-loans/course-material/-/releases">All Releases</a> &middot; <a href="https://gitlab.com/check-student-loans/course-material/tree/master/Archives">Archives</a> &middot; <a href="https://gitlab.com/check-student-loans/course-material">Source</a></td>
+        <a href="https://gitlab.com/check-student-loans/course-material/-/releases">All Releases</a> &middot; <a href="https://gitlab.com/check-student-loans/course-material/tree/master/Archives">Archives</a> &middot; <a href="https://gitlab.com/check-student-loans/course-material">Source</a> &middot; <a href="https://gitlab.com/check-student-loans/course-material/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom">RSS</a></td>
     </tr>
 </table>
 
@@ -43,12 +43,12 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
     <tr>
         <td>iOS</td>
         <td><a href="https://gitlab.com/check-student-loans/ios/blob/4172d97e2c662a302fd6dc104078088c6114842f/Archives/latest-2_7_3.ipa"><b>Latest (Version 2.7.3)</b></a><br>
-        <a href="https://gitlab.com/check-student-loans/ios/-/releases">All Releases</a> &middot; <a href="https://gitlab.com/check-student-loans/ios/tree/master/Archives">Archives</a> &middot; <a href="https://gitlab.com/check-student-loans/ios">Source</a></td>
+        <a href="https://gitlab.com/check-student-loans/ios/-/releases">All Releases</a> &middot; <a href="https://gitlab.com/check-student-loans/ios/tree/master/Archives">Archives</a> &middot; <a href="https://gitlab.com/check-student-loans/ios">Source</a> &middot; <a href="https://gitlab.com/check-student-loans/ios/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom">RSS</a></td>
     </tr>
     <tr>
         <td>Android</td>
         <td><a href="https://gitlab.com/check-student-loans/android/blob/de29e4fcdc350906f95523c4cab2d66934adb97d/Archives/final.apk"><b>Final (Version 1.x Alpha)</b></a><br>
-        <a href="https://gitlab.com/check-student-loans/android/-/releases">All Releases</a> &middot; <a href="https://gitlab.com/check-student-loans/android/tree/master/Archives">Archives</a> &middot; <a href="https://gitlab.com/check-student-loans/android">Source</a></td>
+        <a href="https://gitlab.com/check-student-loans/android/-/releases">All Releases</a> &middot; <a href="https://gitlab.com/check-student-loans/android/tree/master/Archives">Archives</a> &middot; <a href="https://gitlab.com/check-student-loans/android">Source</a> &middot; <a href="https://gitlab.com/check-student-loans/android/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom">RSS</a></td>
     </tr>
 </table><br>
 
@@ -62,6 +62,6 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 <i class="far fa-file"></i> Deeper Insight into the iOS App<br>
 <i class="far fa-file"></i> Extra Insight into the iOS App<p>
 **[Latest (Version 1.6.1)](https://gitlab.com/check-student-loans/other-resources/blob/f39071e75c4e5c3d5796838383c749baa0bdf3cb/Archives/latest-1_6_1.zip)**<br>
-[All Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) &middot; [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) &middot; [Source](https://gitlab.com/check-student-loans/other-resources)
+[All Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) &middot; [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) &middot; [Source](https://gitlab.com/check-student-loans/other-resources) &middot; [RSS](https://gitlab.com/check-student-loans/other-resources/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom)</a>
 
 </center>
