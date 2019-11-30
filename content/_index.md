@@ -66,7 +66,7 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 <i class="far fa-file-code" aria-hidden="true"></i> Jupyter Notebook File for Computing Errors<br>
 <i class="far fa-file" aria-hidden="true"></i> Deeper Insight into the iOS App<br>
 <i class="far fa-file" aria-hidden="true"></i> Extra Insight into the iOS App<p>
-**[Latest (Version 1.6.1)](https://gitlab.com/check-student-loans/other-resources/blob/0f56fb56bc68ee84f7c17e5fa69747916b8407c6/Archives/latest-1_6_1.zip)**<br>
+**[Latest (Version 1.6.1)](https://gitlab.com/check-student-loans/other-resources/blob/b820c930d4f47dd92939a56d3e64adbfb7556a5f/Archives/latest.zip)**<br>
 [All Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) &middot; [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) &middot; [Source](https://gitlab.com/check-student-loans/other-resources) &middot; [RSS](https://gitlab.com/check-student-loans/other-resources/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom)</a><br>
 CC Attribution 4.0 International Licensed
 
