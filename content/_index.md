@@ -1,11 +1,3 @@
----
-# addresses "raw html omitted" issue
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
----        
-
 <!-- ## Front Page Content
 
 This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)

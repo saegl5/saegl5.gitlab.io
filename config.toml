@@ -97,3 +97,7 @@ pygmentCodeFences = true
 #    name = "Tags"
 #    url = "tags"
 #    weight = 3
+
+# addresses "raw HTML omitted" issue
+[markup.goldmark.renderer]
+unsafe= true
