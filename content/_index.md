@@ -8,6 +8,7 @@ if you don't want any content here.
 
 Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.-->
 
+<div>
 <center>
 
 ## Overview of an Instructional App<p>
@@ -71,3 +72,5 @@ Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
 CC Attribution 4.0 International Licensed
 
 </center>
+
+</div>
