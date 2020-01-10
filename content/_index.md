@@ -14,7 +14,17 @@ Native App</th></tr><tr><td colspan="2">iOS <i>or</i> Android</td></tr><tr><td>i
 MIT Licensed</td></tr><tr><td>Android</td><td><a href="https://gitlab.com/check-student-loans/android/blob/26aa1d6a14e3d4d745da9827034236d9ce5b8d68/Archives/final.apk"><b>Final (Version 1.x Alpha)</b></a><br>
 <a href="https://gitlab.com/check-student-loans/android/-/releases">Recent Releases</a> · <a href="https://gitlab.com/check-student-loans/android/tree/master/Archives">Archives</a> · <a href="https://gitlab.com/check-student-loans/android">Source</a> · <a href="https://gitlab.com/check-student-loans/android/-/tags?feed_token=zNciHYByeFm8WuArpKQr&amp;format=atom"><i class="fa fa-rss"></i></a><br>
 MIT Licensed, but portions of the code are dependent on a third-party Maven Repository.</td></tr></tbody></table><br>
-\\#\\#\\# Other Resources<i class="far fa-file"></i>Introductory Script <i class="far fa-file"></i>iOS App Overview <i class="far fa-file"></i>Checklist for Checking the iOS App's Calculations <i class="far fa-file"></i>Spreadsheet for Checking the iOS App's Calculations <i class="far fa-file"></i>Special Cases in iOS Involving Rounding and Casting <i class="far fa-file-code"></i>Jupyter Notebook File for Computing Errors <i class="far fa-file"></i>Deeper Insight into the iOS App <i class="far fa-file"></i>Extra Insight into the iOS App
-[**Latest (Version 1.6.2)**](https://gitlab.com/check-student-loans/other-resources/blob/838cc3aa0dec6fbc983d457c7fe3abba85b5aff3/Archives/latest.zip)
-[Recent Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) · [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) · [Source](https://gitlab.com/check-student-loans/other-resources) · [<i class="fa fa-rss"></i>](https://gitlab.com/check-student-loans/other-resources/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom)
+
+### Other Resources
+
+<i class="far fa-file"></i>Introductory Script<br>
+<i class="far fa-file"></i>iOS App Overview<br>
+<i class="far fa-file"></i>Checklist for Checking the iOS App's Calculations<br>
+<i class="far fa-file"></i>Spreadsheet for Checking the iOS App's Calculations<br>
+<i class="far fa-file"></i>Special Cases in iOS Involving Rounding and Casting<br>
+<i class="far fa-file-code"></i>Jupyter Notebook File for Computing Errors<br>
+<i class="far fa-file"></i>Deeper Insight into the iOS App<br>
+<i class="far fa-file"></i>Extra Insight into the iOS App<br>
+[**Latest (Version 1.6.2)**](https://gitlab.com/check-student-loans/other-resources/blob/838cc3aa0dec6fbc983d457c7fe3abba85b5aff3/Archives/latest.zip)<br>
+[Recent Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) · [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) · [Source](https://gitlab.com/check-student-loans/other-resources) · [<i class="fa fa-rss"></i>](https://gitlab.com/check-student-loans/other-resources/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom)<br>
 CC Attribution 4.0 International Licensed
