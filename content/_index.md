@@ -1,5 +1,7 @@
 ## Overview of an Instructional App
 
+<h1><center>Overview of an Instructional App</center></h1>
+
 <center>
 <table><tbody><tr><th><i class="far fa-copy"></i><br>
 Course Material</th></tr><tr><td>Part 1: Questions <i>without</i> App<br>
