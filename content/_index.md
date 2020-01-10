@@ -1,12 +1,12 @@
+<center>
+
 ## Overview of an Instructional App
 
-<center>
 <table><tbody><tr><th><i class="far fa-copy"></i><br>
 Course Material</th></tr><tr><td>Part 1: Questions <i>without</i> App<br>
 Part 2: Questions <i>with</i> App<br>
 Bonus Questions</td></tr><tr><td><a href="https://gitlab.com/check-student-loans/course-material/uploads/211ba49cf87238db8a40cea88ab918fd/course_material.pdf"><b>Latest (Version 1.5.2)</b></a><br>
 <a href="https://gitlab.com/check-student-loans/course-material/-/releases">Recent Releases</a> · <a href="https://gitlab.com/check-student-loans/course-material/tree/master/Archives">Archives</a> · <a href="https://gitlab.com/check-student-loans/course-material">Source</a> · <a href="https://gitlab.com/check-student-loans/course-material/-/tags?feed_token=zNciHYByeFm8WuArpKQr&amp;format=atom"><i class="fa fa-rss"></i></a></td></tr><tr><td>CC Attribution 4.0 International Licensed</td></tr></tbody></table>
-</center>
 
 ### +
 
@@ -19,7 +19,6 @@ MIT Licensed, but portions of the code are dependent on a third-party Maven Repo
 
 ### Other Resources
 
-<center>
 <i class="far fa-file"></i>Introductory Script<br>
 <i class="far fa-file"></i>iOS App Overview<br>
 <i class="far fa-file"></i>Checklist for Checking the iOS App's Calculations<br>
@@ -28,7 +27,9 @@ MIT Licensed, but portions of the code are dependent on a third-party Maven Repo
 <i class="far fa-file-code"></i>Jupyter Notebook File for Computing Errors<br>
 <i class="far fa-file"></i>Deeper Insight into the iOS App<br>
 <i class="far fa-file"></i>Extra Insight into the iOS App<br>
+
 [**Latest (Version 1.6.2)**](https://gitlab.com/check-student-loans/other-resources/blob/838cc3aa0dec6fbc983d457c7fe3abba85b5aff3/Archives/latest.zip)<br>
 [Recent Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) · [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) · [Source](https://gitlab.com/check-student-loans/other-resources) · [<i class="fa fa-rss"></i>](https://gitlab.com/check-student-loans/other-resources/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom)<br>
 CC Attribution 4.0 International Licensed
+
 </center>
