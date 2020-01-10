@@ -1,8 +1,4 @@
-<center>
-
 ## Overview of an Instructional App
-
-</center>
 
 <center>
 <table><tbody><tr><th><i class="far fa-copy"></i><br>
