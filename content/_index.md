@@ -1,3 +1,5 @@
+<center>
+
 ## Overview of an Instructional App
 
 <table><tbody><tr><th><i class="far fa-copy"></i><br>
@@ -28,3 +30,5 @@ MIT Licensed, but portions of the code are dependent on a third-party Maven Repo
 [**Latest (Version 1.6.2)**](https://gitlab.com/check-student-loans/other-resources/blob/838cc3aa0dec6fbc983d457c7fe3abba85b5aff3/Archives/latest.zip)<br>
 [Recent Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) · [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) · [Source](https://gitlab.com/check-student-loans/other-resources) · [<i class="fa fa-rss"></i>](https://gitlab.com/check-student-loans/other-resources/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom)<br>
 CC Attribution 4.0 International Licensed
+
+</center>
