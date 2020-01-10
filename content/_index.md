@@ -1,6 +1,6 @@
 ## Overview of an Instructional App
 
-<h1><center>Overview of an Instructional App</center></h1>
+<h2><center>Overview of an Instructional App</center></h2>
 
 <center>
 <table><tbody><tr><th><i class="far fa-copy"></i><br>
@@ -12,6 +12,8 @@ Bonus Questions</td></tr><tr><td><a href="https://gitlab.com/check-student-loans
 
 ### +
 
+<h3><center>+</center></h3>
+
 <table><tbody><tr><th colspan="2"><i class="fas fa-mobile-alt"></i><br>
 Native App</th></tr><tr><td colspan="2">iOS <i>or</i> Android</td></tr><tr><td>iOS</td><td><a href="https://gitlab.com/check-student-loans/ios/blob/de0055c34b1ab9b12aeeab9d87fe859398513660/Archives/latest-2_7_3.ipa"><b>Latest (Version 2.7.3)</b></a><br>
 <a href="https://gitlab.com/check-student-loans/ios/-/releases">Recent Releases</a> · <a href="https://gitlab.com/check-student-loans/ios/tree/master/Archives">Archives</a> · <a href="https://gitlab.com/check-student-loans/ios">Source</a> · <a href="https://gitlab.com/check-student-loans/ios/-/tags?feed_token=zNciHYByeFm8WuArpKQr&amp;format=atom"><i class="fa fa-rss"></i></a><br>
@@ -20,6 +22,8 @@ MIT Licensed</td></tr><tr><td>Android</td><td><a href="https://gitlab.com/check-
 MIT Licensed, but portions of the code are dependent on a third-party Maven Repository.</td></tr></tbody></table><br>
 
 ### Other Resources
+
+<h3><center>Other Resources</center></h3>
 
 <center>
 <i class="far fa-file"></i>Introductory Script<br>
