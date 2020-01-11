@@ -1,6 +1,6 @@
-## Overview of an Instructional App
+<!-- ## Overview of an Instructional App -->
 
-<h2><center>Overview of an Instructional App</center></h2>
+<h2><center>Overview of an Instructional App</center></h2><p>
 
 <center>
 <table><tbody><tr><th><i class="far fa-copy"></i><br>
@@ -10,9 +10,9 @@ Bonus Questions</td></tr><tr><td><a href="https://gitlab.com/check-student-loans
 <a href="https://gitlab.com/check-student-loans/course-material/-/releases">Recent Releases</a> · <a href="https://gitlab.com/check-student-loans/course-material/tree/master/Archives">Archives</a> · <a href="https://gitlab.com/check-student-loans/course-material">Source</a> · <a href="https://gitlab.com/check-student-loans/course-material/-/tags?feed_token=zNciHYByeFm8WuArpKQr&amp;format=atom"><i class="fa fa-rss"></i></a></td></tr><tr><td>CC Attribution 4.0 International Licensed</td></tr></tbody></table>
 </center>
 
-### +
+<!-- ### + -->
 
-<h3><center>+</center></h3>
+<h3><center>+</center></h3><p>
 
 <table><tbody><tr><th colspan="2"><i class="fas fa-mobile-alt"></i><br>
 Native App</th></tr><tr><td colspan="2">iOS <i>or</i> Android</td></tr><tr><td>iOS</td><td><a href="https://gitlab.com/check-student-loans/ios/blob/de0055c34b1ab9b12aeeab9d87fe859398513660/Archives/latest-2_7_3.ipa"><b>Latest (Version 2.7.3)</b></a><br>
@@ -21,9 +21,9 @@ MIT Licensed</td></tr><tr><td>Android</td><td><a href="https://gitlab.com/check-
 <a href="https://gitlab.com/check-student-loans/android/-/releases">Recent Releases</a> · <a href="https://gitlab.com/check-student-loans/android/tree/master/Archives">Archives</a> · <a href="https://gitlab.com/check-student-loans/android">Source</a> · <a href="https://gitlab.com/check-student-loans/android/-/tags?feed_token=zNciHYByeFm8WuArpKQr&amp;format=atom"><i class="fa fa-rss"></i></a><br>
 MIT Licensed, but portions of the code are dependent on a third-party Maven Repository.</td></tr></tbody></table><br>
 
-### Other Resources
+<!-- ### Other Resources -->
 
-<h3><center>Other Resources</center></h3>
+<h3><center>Other Resources</center></h3><p>
 
 <center>
 <i class="far fa-file"></i>Introductory Script<br>
