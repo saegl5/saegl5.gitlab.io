@@ -1,11 +1,3 @@
----
-title: "Descriptive Article Title"
-subtitle: "Some subtitle"
-date: 2017-07-20
-output: 
-    md_document
----
-
 <h2><center>Overview of an Instructional App</center></h2><p>
 
 <center>
