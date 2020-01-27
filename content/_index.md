@@ -1,4 +1,5 @@
 ---
+type: page
 output: 
     md_document
 ---
