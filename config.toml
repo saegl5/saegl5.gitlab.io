@@ -3,7 +3,6 @@ contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
 title = "Instructional Apps"
-type = "Page"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
