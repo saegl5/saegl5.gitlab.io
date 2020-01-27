@@ -15,12 +15,14 @@ Bonus Questions</td></tr><tr><td><a href="https://gitlab.com/check-student-loans
 
 <h3><center>+</center></h3><p>
 
+<center>
 <table><tbody><tr><th colspan="2"><i class="fas fa-mobile-alt"></i><br>
 Native App</th></tr><tr><td colspan="2">iOS <i>or</i> Android</td></tr><tr><td>iOS</td><td><a href="https://gitlab.com/check-student-loans/ios/blob/de0055c34b1ab9b12aeeab9d87fe859398513660/Archives/latest-2_7_3.ipa"><b>Latest (Version 2.7.3)</b></a><br>
 <a href="https://gitlab.com/check-student-loans/ios/-/releases">Recent Releases</a> · <a href="https://gitlab.com/check-student-loans/ios/tree/master/Archives">Archives</a> · <a href="https://gitlab.com/check-student-loans/ios">Source</a> · <a href="https://gitlab.com/check-student-loans/ios/-/tags?feed_token=zNciHYByeFm8WuArpKQr&amp;format=atom"><i class="fa fa-rss"></i></a><br>
 MIT Licensed</td></tr><tr><td>Android</td><td><a href="https://gitlab.com/check-student-loans/android/blob/26aa1d6a14e3d4d745da9827034236d9ce5b8d68/Archives/final.apk"><b>Final (Version 1.x Alpha)</b></a><br>
 <a href="https://gitlab.com/check-student-loans/android/-/releases">Recent Releases</a> · <a href="https://gitlab.com/check-student-loans/android/tree/master/Archives">Archives</a> · <a href="https://gitlab.com/check-student-loans/android">Source</a> · <a href="https://gitlab.com/check-student-loans/android/-/tags?feed_token=zNciHYByeFm8WuArpKQr&amp;format=atom"><i class="fa fa-rss"></i></a><br>
-MIT Licensed, but portions of the code are dependent on a third-party Maven Repository.</td></tr></tbody></table><br>
+MIT Licensed</td></tr></tbody></table><br>
+</center>
 
 <h3><center>Other Resources</center></h3><p>
 
