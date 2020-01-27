@@ -2,9 +2,9 @@
 output: 
     md_document
 ---
-
-<h2><center>Overview of an Instructional App</center></h2><p>
 ...
+<h2><center>Overview of an Instructional App</center></h2><p>
+
 <center>
 <table><tbody><tr><th><i class="far fa-copy"></i><br>
 Course Material</th></tr><tr><td>Part 1: Questions <i>without</i> App<br>
