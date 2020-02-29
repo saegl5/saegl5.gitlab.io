@@ -1,6 +1,6 @@
 ---
 type: page # fixes title and subtitle
-output: md_document # fixes layout
+#output: md_document # fixes layout
 ---
 
 <h2><center>Overview of an Instructional App</center></h2><p>
