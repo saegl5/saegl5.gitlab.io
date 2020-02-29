@@ -12,7 +12,9 @@ Part 2: Questions <i>with</i> App<br>
 Bonus Questions</td></tr><tr><td><a href="https://gitlab.com/check-student-loans/course-material/uploads/211ba49cf87238db8a40cea88ab918fd/course_material.pdf"><b>Latest (Version 1.5.2)</b></a><br>
 <a href="https://gitlab.com/check-student-loans/course-material/-/releases">Recent Releases</a> · <a href="https://gitlab.com/check-student-loans/course-material/tree/master/Archives">Archives</a> · <a href="https://gitlab.com/check-student-loans/course-material">Source</a> · <a href="https://gitlab.com/check-student-loans/course-material/-/tags?feed_token=zNciHYByeFm8WuArpKQr&amp;format=atom"><i class="fa fa-rss"></i></a></td></tr><tr><td>CC Attribution 4.0 International Licensed</td></tr></tbody></table>
 </center>
-<center>|</center>
+
+<h3><center>+</center></h3><p>
+
 <center>
 <table><tbody><tr><th colspan="2"><i class="fas fa-mobile-alt"></i><br>
 Native App</th></tr><tr><td colspan="2">iOS <i>or</i> Android</td></tr><tr><td>iOS</td><td><a href="https://gitlab.com/check-student-loans/ios/blob/de0055c34b1ab9b12aeeab9d87fe859398513660/Archives/latest-2_7_3.ipa"><b>Latest (Version 2.7.3)</b></a><br>
