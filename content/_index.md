@@ -6,7 +6,7 @@ type: page # fixes title and subtitle
 <h2><center>Overview of an Instructional App</center></h2><p>
 
 <center>
-<table style="border-top: 50px solid #000000; border-left: 50px solid #000000; border-right: 50px solid #000000; border-bottom: 50px solid #000000; border-top-left-radius: 25px"><tbody><tr><th><i class="far fa-copy"></i><br>
+<table style="border-top: 50px solid #000000; border-left: 50px solid #000000; border-right: 50px solid #000000; border-bottom: 50px solid #000000; border-radius: 50%"><tbody><tr><th><i class="far fa-copy"></i><br>
 Course Material</th></tr><tr><td>Part 1: Questions <i>without</i> App<br>
 Part 2: Questions <i>with</i> App<br>
 Bonus Questions</td></tr><tr><td><a href="https://gitlab.com/check-student-loans/course-material/uploads/211ba49cf87238db8a40cea88ab918fd/course_material.pdf"><b>Latest (Version 1.5.2)</b></a><br>
