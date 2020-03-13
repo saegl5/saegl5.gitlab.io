@@ -41,7 +41,7 @@ MIT Licensed</td></tr></tbody></table><br>
 CC Attribution 4.0 International Licensed<br>
 </center>
 
-<h3><center>Archives</center></h3><p>
+<h3><center>All Archives</center></h3><p>
 
 <center>
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/571ea0104ffa6eee935ab46dcf595d56302ec7d6/feasibility_test.zip">Feasibility Test</a><br>
