@@ -33,11 +33,11 @@ MIT Licensed</td></tr></tbody></table><br>
 <i class="far fa-file"></i>&nbsp;Checklist for Checking the iOS App's Calculations<br>
 <i class="far fa-file"></i>&nbsp;Spreadsheet for Checking the iOS App's Calculations<br>
 <i class="far fa-file"></i>&nbsp;Special Cases in iOS Involving Rounding and Casting<br>
-<i class="far fa-file-code"></i>&nbsp;Jupyter Notebook File for Computing Errors<br>
+<i class="far fa-file-code"></i>&nbsp;SageMath Notebook File for Computing Errors<br>
 <i class="far fa-file"></i>&nbsp;Deeper Insight into the iOS App<br>
 <i class="far fa-file"></i>&nbsp;Extra Insight into the iOS App<br>
 
-[**Latest (Version 1.6.2)**](https://gitlab.com/check-student-loans/other-resources/blob/838cc3aa0dec6fbc983d457c7fe3abba85b5aff3/Archives/latest.zip)<br>
+[**Latest (Version 1.6.3)**](https://gitlab.com/check-student-loans/other-resources/-/blob/9405a634a70d796d1a063f35773d10d5fd17cb10/Archives/latest.zip)<br>
 [Recent Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) · [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) · [Source](https://gitlab.com/check-student-loans/other-resources) · [<i class="fa fa-rss"></i>](https://gitlab.com/check-student-loans/other-resources/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom)<br>
 CC Attribution 4.0 International Licensed
 </center>
@@ -45,11 +45,11 @@ CC Attribution 4.0 International Licensed
 <h3><center>All Archives</center></h3><p>
 
 <center>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/571ea0104ffa6eee935ab46dcf595d56302ec7d6/feasibility_test.zip">Feasibility Test</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/571ea0104ffa6eee935ab46dcf595d56302ec7d6/formal_field_test.zip">Formal Field Test</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/571ea0104ffa6eee935ab46dcf595d56302ec7d6/informal_field_test.zip">Informal Field Test</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/571ea0104ffa6eee935ab46dcf595d56302ec7d6/focus_groups.zip">Focus Groups</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/571ea0104ffa6eee935ab46dcf595d56302ec7d6/panel_discussion.zip">Panel Discussion</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/571ea0104ffa6eee935ab46dcf595d56302ec7d6/summative.zip">Summative</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/571ea0104ffa6eee935ab46dcf595d56302ec7d6/latest_or_final.zip">Latest/Final</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/4f70801bc6cf34440744511940277d313daeed8d/feasibility_test.zip">Feasibility Test</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/4f70801bc6cf34440744511940277d313daeed8d/formal_field_test.zip">Formal Field Test</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/4f70801bc6cf34440744511940277d313daeed8d/informal_field_test.zip">Informal Field Test</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/4f70801bc6cf34440744511940277d313daeed8d/focus_groups.zip">Focus Groups</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/4f70801bc6cf34440744511940277d313daeed8d/panel_discussion.zip">Panel Discussion</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/4f70801bc6cf34440744511940277d313daeed8d/summative.zip">Summative</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/4f70801bc6cf34440744511940277d313daeed8d/latest_or_final.zip">Latest/Final</a><br>
 </center>
