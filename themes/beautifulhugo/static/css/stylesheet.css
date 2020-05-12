@@ -61,6 +61,9 @@
   line-height: 2em !important; /* extra space above and below headers */
   color: var(--sn-stylekit-info-color) !important;
 }
+.cm-strong {
+  color: #ffffffff !important;
+}
 .CodeMirror .cm-formatting-header, .CodeMirror .cm-formatting-strong, .CodeMirror .cm-formatting-em {
   opacity: 1 !important; /* pound signs same color as headers */
 }
