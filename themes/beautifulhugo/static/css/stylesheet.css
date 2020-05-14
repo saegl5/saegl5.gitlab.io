@@ -171,19 +171,22 @@ del {
 
 /* notes-column, editor and markdown */
 .sn-component .sk-app-bar.no-edges {
-  border-top: 1px solid var(--sn-stylekit-border-color) !important; /* subtle color */
+  border-top: 0.25px solid var(--sn-stylekit-border-color) !important; /* subtle color */ 
   border-bottom: none !important;
 }
 .editor-toolbar, .editor-toolbar.fullscreen {
   border-bottom: none !important;
 }
-
+#footer-bar.sk-app-bar.no-edges.no-bottom-edge {
+  border-top: 0.25px solid var(--sn-stylekit-border-color) !important; /* subtle color */
+} 
+    
 /* footer-bar */
 .sn-component .sk-app-bar .sk-app-bar-item.border {
   border: none !important;
 }
 
-::-webkit-scrollbar-thumb
-{
-    border-radius: 0px !important; /* windows style */
+/* scrollbar */
+::-webkit-scrollbar-thumb {
+  border-radius: 0px !important; /* windows style */
 }
