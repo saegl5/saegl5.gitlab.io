@@ -134,7 +134,7 @@
   font-weight: unset !important;
 }
 .cm-em {
-  color: var(--sn-stylekit-info-color) !important;
+  color: #ffffffff !important;
   font-weight: 700 !important;
 }
 
