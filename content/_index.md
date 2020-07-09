@@ -9,7 +9,7 @@ output: md_document # fixes layout
 <table><tbody><tr><th><i class="far fa-copy"></i><br>
 Course Material</th></tr><tr><td>Part 1: Questions <i>without</i> App<br>
 Part 2: Questions <i>with</i> App<br>
-Bonus Questions</td></tr><tr><td><a href="https://gitlab.com/check-student-loans/course-material/uploads/211ba49cf87238db8a40cea88ab918fd/course_material.pdf"><b>Latest (Version 1.5.2)</b></a><br>
+Bonus Questions</td></tr><tr><td><a href="https://gitlab.com/check-student-loans/course-material/-/blob/0a7ea7e0c243af2595b9041cb1d9270ff166c63b/Archives/latest.pdf"><b>Latest (Version 1.5.2)</b></a><br>
 <a href="https://gitlab.com/check-student-loans/course-material/-/releases">Recent Releases</a> · <a href="https://gitlab.com/check-student-loans/course-material/tree/master/Archives">Archives</a> · <a href="https://gitlab.com/check-student-loans/course-material">Source</a> · <a href="https://gitlab.com/check-student-loans/course-material/-/tags?feed_token=zNciHYByeFm8WuArpKQr&amp;format=atom"><i class="fa fa-rss"></i></a></td></tr><tr><td>CC Attribution 4.0 International Licensed</td></tr></tbody></table>
 </center>
 
