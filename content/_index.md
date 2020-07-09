@@ -50,6 +50,6 @@ CC Attribution 4.0 International Licensed
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/informal_field_test.zip">Informal Field Test</a><br>
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/focus_groups.zip">Focus Groups</a><br>
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/panel_discussion.zip">Panel Discussion</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/038cae4837bbcada5ffbb9b9405358b453bb0281/summative.zip">Summative</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/latest_or_final.zip">Latest/Final</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/9dc24a3f2f28545dc9ece9008f68b9f22bebb918/summative.zip">Summative</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/9dc24a3f2f28545dc9ece9008f68b9f22bebb918/latest_or_final.zip">Latest/Final</a><br>
 </center>
