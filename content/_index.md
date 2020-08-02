@@ -37,7 +37,7 @@ MIT Licensed</td></tr></tbody></table><br>
 <i class="far fa-file"></i>&nbsp;Deeper Insight into the iOS App<br>
 <i class="far fa-file"></i>&nbsp;Extra Insight into the iOS App<br>
 
-[**Latest (Version 1.6.3)**](https://gitlab.com/check-student-loans/other-resources/-/blob/9405a634a70d796d1a063f35773d10d5fd17cb10/Archives/latest.zip)<br>
+[**Latest (Version 1.6.4)**](https://gitlab.com/check-student-loans/other-resources/-/blob/2f78a8c9298e35dce209fe23624cbf23671d89a2/Archives/latest.zip)<br>
 [Recent Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) · [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) · [Source](https://gitlab.com/check-student-loans/other-resources) · [<i class="fa fa-rss"></i>](https://gitlab.com/check-student-loans/other-resources/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom)<br>
 CC Attribution 4.0 International Licensed
 </center>
