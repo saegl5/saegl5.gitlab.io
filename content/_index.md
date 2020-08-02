@@ -37,7 +37,7 @@ MIT Licensed</td></tr></tbody></table><br>
 <i class="far fa-file"></i>&nbsp;Deeper Insight into the iOS App<br>
 <i class="far fa-file"></i>&nbsp;Extra Insight into the iOS App<br>
 
-[**Latest (Version 1.6.4)**](https://gitlab.com/check-student-loans/other-resources/-/blob/2f78a8c9298e35dce209fe23624cbf23671d89a2/Archives/latest.zip)<br>
+[**Latest (Version 1.6.4)**](https://gitlab.com/check-student-loans/other-resources/-/blob/017832daf00664e02e112591884c016ac25c2379/Archives/latest.zip)<br>
 [Recent Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) · [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) · [Source](https://gitlab.com/check-student-loans/other-resources) · [<i class="fa fa-rss"></i>](https://gitlab.com/check-student-loans/other-resources/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom)<br>
 CC Attribution 4.0 International Licensed
 </center>
@@ -50,6 +50,6 @@ CC Attribution 4.0 International Licensed
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/informal_field_test.zip">Informal Field Test</a><br>
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/focus_groups.zip">Focus Groups</a><br>
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/panel_discussion.zip">Panel Discussion</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/9dc24a3f2f28545dc9ece9008f68b9f22bebb918/summative.zip">Summative</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/9dc24a3f2f28545dc9ece9008f68b9f22bebb918/latest_or_final.zip">Latest/Final</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/2f78a8c9298e35dce209fe23624cbf23671d89a2/summative.zip">Summative</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/2f78a8c9298e35dce209fe23624cbf23671d89a2/latest_or_final.zip">Latest/Final</a><br>
 </center>
