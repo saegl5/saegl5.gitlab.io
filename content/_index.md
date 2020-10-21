@@ -33,11 +33,11 @@ MIT Licensed</td></tr></tbody></table><br>
 <i class="far fa-file"></i>&nbsp;Checklist for Checking the iOS App's Calculations<br>
 <i class="far fa-file"></i>&nbsp;Spreadsheet for Checking the iOS App's Calculations<br>
 <i class="far fa-file"></i>&nbsp;Special Cases in iOS Involving Rounding and Casting<br>
-<i class="far fa-file-code"></i>&nbsp;SageMath Notebook File for Computing Errors<br>
+<i class="far fa-file-code"></i>&nbsp;~~SageMath Notebook~~ Python File for Computing Errors<br>
 <i class="far fa-file"></i>&nbsp;Deeper Insight into the iOS App<br>
 <i class="far fa-file"></i>&nbsp;Extra Insight into the iOS App<br>
 
-[**Latest (Version 1.6.4)**](https://gitlab.com/check-student-loans/other-resources/-/blob/017832daf00664e02e112591884c016ac25c2379/Archives/latest.zip)<br>
+[**Latest (Version 1.7)**](https://gitlab.com/check-student-loans/other-resources/-/blob/aa27f4073f2cfa16028e170e8e3f25d51c955549/Archives/latest.zip)<br>
 [Recent Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) · [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) · [Source](https://gitlab.com/check-student-loans/other-resources) · [<i class="fa fa-rss"></i>](https://gitlab.com/check-student-loans/other-resources/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom)<br>
 CC Attribution 4.0 International Licensed
 </center>
@@ -50,6 +50,6 @@ CC Attribution 4.0 International Licensed
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/informal_field_test.zip">Informal Field Test</a><br>
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/focus_groups.zip">Focus Groups</a><br>
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/panel_discussion.zip">Panel Discussion</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/2f78a8c9298e35dce209fe23624cbf23671d89a2/summative.zip">Summative</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/2f78a8c9298e35dce209fe23624cbf23671d89a2/latest_or_final.zip">Latest/Final</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/bf8b158c72012da97a739522435a6abf51fa72f9/summative.zip">Summative</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/bf8b158c72012da97a739522435a6abf51fa72f9/latest_or_final.zip">Latest/Final</a><br>
 </center>
