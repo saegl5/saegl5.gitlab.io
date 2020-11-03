@@ -37,7 +37,7 @@ MIT Licensed</td></tr></tbody></table><br>
 <i class="far fa-file"></i>&nbsp;Deeper Insight into the iOS App<br>
 <i class="far fa-file"></i>&nbsp;Extra Insight into the iOS App<br>
 
-[**Latest (Version 1.7)**](https://gitlab.com/check-student-loans/other-resources/-/blob/aa27f4073f2cfa16028e170e8e3f25d51c955549/Archives/latest.zip)<br>
+[**Latest (Version 1.7.1)**](https://gitlab.com/check-student-loans/other-resources/-/blob/f452f71fbdea4aea7ca267bb5937712e82cb6d4a/Archives/latest.zip)<br>
 [Recent Releases](https://gitlab.com/check-student-loans/other-resources/-/releases) · [Archives](https://gitlab.com/check-student-loans/other-resources/tree/master/Archives) · [Source](https://gitlab.com/check-student-loans/other-resources) · [<i class="fa fa-rss"></i>](https://gitlab.com/check-student-loans/other-resources/-/tags?feed_token=zNciHYByeFm8WuArpKQr&format=atom)<br>
 CC Attribution 4.0 International Licensed
 </center>
@@ -50,6 +50,6 @@ CC Attribution 4.0 International Licensed
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/informal_field_test.zip">Informal Field Test</a><br>
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/focus_groups.zip">Focus Groups</a><br>
 <a href="https://gitlab.com/check-student-loans/archives/-/blob/5bfc042cc2f42792ec5b0513f562cafd3455aeb0/panel_discussion.zip">Panel Discussion</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/bf8b158c72012da97a739522435a6abf51fa72f9/summative.zip">Summative</a><br>
-<a href="https://gitlab.com/check-student-loans/archives/-/blob/bf8b158c72012da97a739522435a6abf51fa72f9/latest_or_final.zip">Latest/Final</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/b89acf8503548f6c5eb778830c7762f32dc53f1f/summative.zip">Summative</a><br>
+<a href="https://gitlab.com/check-student-loans/archives/-/blob/b89acf8503548f6c5eb778830c7762f32dc53f1f/latest_or_final.zip">Latest/Final</a><br>
 </center>
